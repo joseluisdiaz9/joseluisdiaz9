@@ -49,7 +49,7 @@ __Build Of Data Ware and Dashboard:__
 <br />
 
 ---
-### 📺 Mis aplicaciones
+### 📺 Applications Developed ( just if u have)
 
 [<img align="left" alt="Formulae Calculo" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
 **Formulae Calculo** *(Gratis)*
@@ -61,17 +61,6 @@ __Build Of Data Ware and Dashboard:__
 <br />
 [<img align="left" alt="Formulae Calculo Pro" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][FormulaePro]
 **Formulae Calculo Pro** *(De Pago)*
-<br />
-<br />
-
-## 🔎 Mis estadisticas:
-<details>
-    <summary>🔎 Ver</summary>
-   
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chochy2001&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chochy2001&show_icons=true&theme=tokyonight)
-
 <br />
 
 </details>
