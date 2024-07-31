@@ -94,7 +94,7 @@ __Build Of Data Ware and Dashboard:__
 
 </details>
 
--- Aqui estan todas la etiquetas que he utiliado en este readme.md Agunas no he utilizdo. No poner saltos de linea sino no funciona
+
 [Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
 [website]: https://capdesis.com/
 [youtube]: https://www.youtube.com/channel/UChoDyFV5T1t9qWymeTz8Gvg
