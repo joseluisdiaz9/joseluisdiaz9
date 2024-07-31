@@ -12,8 +12,8 @@
 
 [![josediazvarela GitHub stats](https://github-readme-stats.vercel.app/api?username=josediazvarela)](https://github.com/josediazvarela/github-readme-stats)
 
-### Contactame!:
- <! -- Aqui cambiar el https de DataStart. Las referencias (como [website] o [instagram]) a las etiquetas estan al final de la pagina -->
+## Contactame!:
+### Aqui cambiar el https de DataStart. Las referencias ('website'/'instagram'/etc) a las etiquetas estan al final de la pagina 
 [<img align="bottom" alt="DataStart.com" width="22px" src="https://cdn.icon-icons.com/icons2/1154/PNG/512/1486564415-globe_81515.png" />][website]
 [<img align="left" alt="YouTube" width="22px" src="https://logodownload.org/wp-content/uploads/2014/10/youtube-logo-5-2.png" />][youtube]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />][linkedin]
@@ -21,21 +21,10 @@
 [<img align="left" alt="Facebook" width="22px" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/facebook/facebook-original.svg" />][Facebook]
 <br />
 
-### Lenguajes y Herramientas que utilizo:
-
-__Generales:__
-<br />
-<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/go/go-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" height="30"/>
-<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/debian/debian-original.svg" width="30" height="30" />
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
-<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
+### Servicios de Tecnologias de la Informacion:
 <br />
 
----
-__Desarrollo Móvil:__
+__ Mobile Apps & Desktop Web Applications Development / Testing:__
 <br />
 <img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flutter/flutter-original.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" width="30" height="30" />
@@ -44,7 +33,7 @@ __Desarrollo Móvil:__
 <br />
 
 ---
-__Diseño:__
+__Database Tuning & Maintenance :__
 <br />
 <img align="bottom" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/xd/xd-plain.svg" width="30" height="30" />
 <img align="left" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" width="30" height="30" />
@@ -52,7 +41,7 @@ __Diseño:__
 <br />
 
 ---
-__Cursos:__
+__Build Of Data Ware and Dashboard:__
 <br />
 <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
@@ -101,7 +90,7 @@ __Cursos:__
    
 </details>
 
-## ❗️ Actividad Reciente
+## ❗️ Actividad Reciente - Cuando haces click en "ver" te manda a tu github a ver que es lo que haz hecho reciente (5 issues)
 <details>
     <summary>❗️ Ver</summary>
    
@@ -127,9 +116,23 @@ __Cursos:__
 [cursoPhotoshop]: https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB
 [web]:  https://www.google.com/
 
-[Formulae]: https://play.google.com/store/apps/details?id=capdesis.formulae
-[FormulaePro]: https://play.google.com/store/apps/details?id=com.formulae.pro.formulae_calculo_pro
+<br />
+-- estos ejemplos de referencias https:// a google play para descargas
+<br />
+[Formulae]: https://play.google.com/store/apps/details?id=capdesis.formulae  
+[FormulaePro]: https://play.google.com/store/apps/details?id=com.formulae.pro.formulae_calculo_pro  
 [Fisica]: https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica
+<br />
+__Estos iconos .svg pueder ser utiles -generales:__
+
+<br />
+<img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/go/go-original.svg" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" width="30" height="30"/>
+<img align="left" src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/debian/debian-original.svg" width="30" height="30" />
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" width="30" height="30"/>
+<img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" width="30" height="30"/>
 
 
 
