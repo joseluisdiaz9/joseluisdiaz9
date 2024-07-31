@@ -1,5 +1,6 @@
 # Columbia University Engineering  :bowtie:
 
+
 ### Software Engineering Executive Program / Boot Camp Coding   - New York City, The United States, 2025
 #### ¡Jose Luis Diaz V -  Conoce un poco mas sobre la Empresa [DataStart][Facebook] 
 - Estos son algunos de mis cursos:
@@ -118,7 +119,7 @@ __Cursos:__
 [Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
 [website]: https://capdesis.com/
 [youtube]: https://www.youtube.com/channel/UChoDyFV5T1t9qWymeTz8Gvg
-[instagram]: https://www.instagram.com/c_h_o_c_h_y/
+[instagram]: https://www.instagram.com/jovrela?igsh=NnF4ZTJjbGJscnVk&utm_source=qr
 [Facebook]:  https://www.facebook.com/profile.php?id=61550711673826
 [linkedin]: https://www.linkedin.com/in/jorge-salgado-miranda-74023b181/
 [cursoC]: https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B
