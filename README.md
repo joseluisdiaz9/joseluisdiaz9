@@ -49,7 +49,7 @@ __Build Of Data Ware and Dashboard:__
 <br />
 
 ---
-### 📺 Applications Developed (solo lo harian en el mobil- No desde aqui) - Poner aplicaciones colgadas de AppStore / Google para que descarguen . Aqui estan solo iconos 
+### 📺 Applications Developed (solo lo harian en el mobil- No desde aqui) - Poner aplicaciones colgadas de AppStore / Google para que ### descarguen . Aqui estan solo iconos 
 
 [<img align="left" alt="Formulae Calculo" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
 
