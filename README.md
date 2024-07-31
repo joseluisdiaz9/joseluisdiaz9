@@ -4,9 +4,9 @@
 ### Software Engineering Executive Program / Boot Camp Coding   - New York City, The United States, 2025
 #### ¡Jose Luis Diaz V -  Conoce un poco mas sobre la Empresa [DataStart][Facebook] 
 - Estos son algunos de mis cursos:
-- 👉[Desarrollo y Testing de Desktop Web applications & Mobile Apps](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]!
-- 👉[Mantenimiento y Tuning de Base De Datos](https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF)[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][cursoGit&GitHub]!
-- 👉[Analytics, Desarrollo de Data warehouse & Business Intelligence ](https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />][cursoPhotoshop]!
+- 👉[Desarrollo y Testing de Desktop Web applications & Mobile Apps](https://www.udemy.com/course/programacion_en_c_desde_cero_a_experto/?referralCode=D0CF1FABF59B2D29079B)[<img align="left" alt="CursoC" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />][cursoC]
+- 👉[Mantenimiento y Tuning de Base De Datos](https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF)[<img align="left" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" />][cursoGit&GitHub]
+- 👉[Analytics, Desarrollo de Data warehouse & Business Intelligence ](https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB)[<img align="left" alt="CursoPhotoshop" width="22px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" />][cursoPhotoshop]
 - ⚡ StarData is a software engineering company focused on helping organizations achieve their strategic plans and organizational goals.
 - ⚡ The company's headquarters are Santa Clara, Silicon Valley, California, U.S.
 
