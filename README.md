@@ -53,15 +53,15 @@ __Build Of Data Ware and Dashboard:__
 
 [<img align="left" alt="Formulae Calculo" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
 
-**Formulae Calculo** *(Gratis)*
+**Formulae Calculo** *(Descagar en su Telefono movil- no para Desktop)*
 <br />
 <br />
 [<img align="left" alt="Fisica" width="30px" src="https://play-lh.googleusercontent.com/PRdpXg1uGaRQiP5SSJaEL8EvYtgdEC3sDBN1lclrHXINKRJezcXJ9Onr09l2yxxOX4k=s180-rw" />][Fisica]
-**Calculadora de Fisica** *(Gratis)*
+**Calculadora de Fisica** *(Descagar en su Telefono movil- no para Desktop)*
 <br />
 <br />
 [<img align="left" alt="Formulae Calculo Pro" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][FormulaePro]
-**Formulae Calculo Pro** *(De Pago)*
+**Formulae Calculo Pro** *(Descagar en su Telefono movil- no para Desktop)*
 <br />
 
 </details>
@@ -94,7 +94,7 @@ __Build Of Data Ware and Dashboard:__
 
 </details>
 
-
+-- Aqui estan todas la etiquetas que he utiliado en este readme.md Agunas no he utilizdo. No poner saltos de linea sino no funciona
 [Adobe]: https://www.adobe.com/mx/creativecloud.html?sdid=KQPRD&mv=search&ef_id=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB:G:s&s_kwcid=AL!3085!3!442675031911!e!!g!!adobe!188200542!10039634022&gclid=Cj0KCQjwmIuDBhDXARIsAFITC_4eIsfU0B1LEkZGVLr6Ql-FPQtYPLw5mGJbZSvEDzlvGf3CGKFJGTUaAk6dEALw_wcB
 [website]: https://capdesis.com/
 [youtube]: https://www.youtube.com/channel/UChoDyFV5T1t9qWymeTz8Gvg
