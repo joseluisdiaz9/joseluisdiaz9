@@ -49,9 +49,10 @@ __Build Of Data Ware and Dashboard:__
 <br />
 
 ---
-### 📺 Applications Developed ( just if u have)
+### 📺 Applications Developed (solo lo harian en el mobil- No desde aqui) - Poner aplicaciones colgadas de AppStore / Google para que descarguen . Aqui estan solo iconos 
 
 [<img align="left" alt="Formulae Calculo" width="30px" src="https://play-lh.googleusercontent.com/5kLMnce84PkTt4hQEnvN5iWW8FJUqlm07R7Y-V5dYch9KPloLLUghyDw9_a611A6DA=s180-rw" />][Formulae]
+
 **Formulae Calculo** *(Gratis)*
 <br />
 <br />
@@ -67,7 +68,7 @@ __Build Of Data Ware and Dashboard:__
 
 ## 📺 Últimos vídeos de YouTube
 <details>
-    <summary>📺 Ver</summary>
+    <summary>📺 Ver (Encontraras 5 videos de youtube referenciados)</summary>
    
 <!-- YOUTUBE:START -->
 - [Pablinsky / @CHOCHY](https://www.youtube.com/watch?v=SaQbp9SOLfM)
@@ -79,9 +80,9 @@ __Build Of Data Ware and Dashboard:__
    
 </details>
 
-## ❗️ Actividad Reciente - Cuando haces click en "ver" te manda a tu github a ver que es lo que haz hecho reciente (5 issues)
+## ❗️ Actividad Reciente en Github - Cuando haces click en "ver" te manda a tu github a ver que es lo que haz hecho reciente (5 issues)
 <details>
-    <summary>❗️ Ver</summary>
+    <summary>❗️ Ver (aqui se manda a github a ver issues - en el anterior se manda a ver videos de youtube</summary>
    
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#10](https://github.com/ValeMerch/Git_GitHub/issues/10) in [ValeMerch/Git_GitHub](https://github.com/ValeMerch/Git_GitHub)
@@ -112,8 +113,8 @@ __Build Of Data Ware and Dashboard:__
 [FormulaePro]: https://play.google.com/store/apps/details?id=com.formulae.pro.formulae_calculo_pro  
 [Fisica]: https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica
 <br />
-__Estos iconos .svg pueder ser utiles -generales:__
 
+__Estos iconos .svg pueder ser utiles -generales:__
 <br />
 <img align="bottom" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/git.svg" width="30" height="30" />
 <img align="left" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/github.svg" width="30" height="30" />
