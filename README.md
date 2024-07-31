@@ -105,10 +105,6 @@ __Build Of Data Ware and Dashboard:__
 [cursoGit&GitHub]: https://www.udemy.com/course/git-y-github-desde-cero-a-experto/?referralCode=D1D66BA1BD00C54733FF
 [cursoPhotoshop]: https://www.udemy.com/course/introduccion-a-adobe-photoshop-cc-2020-actualizado/?referralCode=B156AD3A3E7122C398DB
 [web]:  https://www.google.com/
-
-<br />
--- estos ejemplos de referencias https:// a google play para descargas
-<br />
 [Formulae]: https://play.google.com/store/apps/details?id=capdesis.formulae  
 [FormulaePro]: https://play.google.com/store/apps/details?id=com.formulae.pro.formulae_calculo_pro  
 [Fisica]: https://play.google.com/store/apps/details?id=app.ejemplocalc.CalculadoraFisica
